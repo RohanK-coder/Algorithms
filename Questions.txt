@@ -1,0 +1,16 @@
+** Binary Search Questions **
+10:25 Q1 : Ceiling of a Number
+32:58 Q2 : Floor of a Number
+40:40 Q1 and Q2
+46:55 Q3 : Smallest Letter
+1:02:13 Q4 : First and Last Position in Sorted Array
+1:28:03 Q5 : Position of an Element in Infinite Sorted Array
+1:58:00 Q6 : Peak Index in Mountain Array
+2:18:22 Why this bootcamp is the best?
+2:20:37 Q7 : Find in Mountain Array
+2:29:55 Q8 : Search in Rotated Sorted Array
+2:45:03 Correction: [4 5 6 0 1 2 3]
+2:48:40 Q8 : Search in Rotated Sorted Array
+3:10:46 Q9 : Rotated Binary Search in Array with Duplicate Values
+Q10 : Rotation Co
+Q11 : Split Array Largest Sum
